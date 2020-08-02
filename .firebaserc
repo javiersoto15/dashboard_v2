@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ufit-001": {
+      "hosting": {
+        "app": [
+          "ufit-001"
+        ]
+      }
+    }
+  }
+}
